@@ -1,5 +1,5 @@
 # Sports-Tournament-Cup
-Program that calculation sports tournament between players.
+Program that calculation results of sports tournament between players.
 using by JavaFX.
 
 
